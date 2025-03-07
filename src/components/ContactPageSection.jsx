@@ -138,18 +138,12 @@ const ContactPageSection = () => {
               </div>
 
               <h1 className="text-defined-blue text-xl font-bold">
-                Garage Opening Time
+                Shop Opening Time
               </h1>
               <div className="flex items-center gap-3">
                 <LuAlarmClock size={25} className="text-defined-orange" />
                 <span className="text-defined-brown">
                   Opening Time 10:00 am
-                </span>
-              </div>
-              <div className="flex items-center gap-3">
-                <LuAlarmClock size={25} className="text-defined-orange" />
-                <span className="text-defined-brown">
-                  Closing Time 08:00 pm
                 </span>
               </div>
             </div>
